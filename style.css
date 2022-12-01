@@ -16,7 +16,7 @@ a {
 }
 
 body {
-    background-image: linear-gradient( to bottom right, rgb(11, 94, 66),rgba(210,53,165));
+    background-image: linear-gradient( to bottom right, rgb(58, 42, 153),rgb(32, 29, 31));
 }
 
 .container {
@@ -30,7 +30,7 @@ body {
     position: relative;
     height: auto;
     width: auto;
-    padding: 20px;
+    padding: 30px;
     border-radius: 10px;
     box-shadow: 0 0 30px #000;
 }
@@ -72,8 +72,8 @@ body {
     display: flex;
     align-items: flex-end;
     justify-content: flex-end;
-    font-size: 30px;
-    margin-bottom: 20px;
+    font-size: 50px;
+    margin-bottom: 30px;
     overflow-x: scroll;
   }
 
